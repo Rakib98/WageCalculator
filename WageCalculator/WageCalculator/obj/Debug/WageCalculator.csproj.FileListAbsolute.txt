@@ -1,0 +1,22 @@
+u:\visual studio 2017\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
+u:\visual studio 2017\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+u:\visual studio 2017\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+u:\visual studio 2017\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csprojResolveAssemblyReference.cache
+u:\visual studio 2017\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+u:\visual studio 2017\Projects\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb
+C:\Users\Rakib\Desktop\Unit 6 files\Assignment\WageCalculator\WageCalculator\bin\Debug\MySql.Data.dll
+U:\Visual Studio 2017\Projects\WageCalculator\WageCalculator\bin\Debug\MySql.Data.dll
+U:\My Desktop\Assignment 1 [Unit 6-16] (Rakib Abdur)\Assignment 1 [Unit 6-16] (Rakib Abdur)\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe.config
+U:\My Desktop\Assignment 1 [Unit 6-16] (Rakib Abdur)\Assignment 1 [Unit 6-16] (Rakib Abdur)\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+U:\My Desktop\Assignment 1 [Unit 6-16] (Rakib Abdur)\Assignment 1 [Unit 6-16] (Rakib Abdur)\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+U:\My Desktop\Assignment 1 [Unit 6-16] (Rakib Abdur)\Assignment 1 [Unit 6-16] (Rakib Abdur)\WageCalculator\WageCalculator\bin\Debug\MySql.Data.dll
+U:\My Desktop\Assignment 1 [Unit 6-16] (Rakib Abdur)\Assignment 1 [Unit 6-16] (Rakib Abdur)\WageCalculator\WageCalculator\obj\Debug\WageCalculator.csprojResolveAssemblyReference.cache
+U:\My Desktop\Assignment 1 [Unit 6-16] (Rakib Abdur)\Assignment 1 [Unit 6-16] (Rakib Abdur)\WageCalculator\WageCalculator\obj\Debug\WageCalculator.exe
+U:\My Desktop\Assignment 1 [Unit 6-16] (Rakib Abdur)\Assignment 1 [Unit 6-16] (Rakib Abdur)\WageCalculator\WageCalculator\obj\Debug\WageCalculator.pdb

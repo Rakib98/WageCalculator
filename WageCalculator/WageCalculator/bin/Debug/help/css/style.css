@@ -1,0 +1,102 @@
+body {
+	font-family: 'Arimo', sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color: #f4f4f4;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+    
+}
+
+/* Header **/
+
+header {
+	background: #35424a;
+	color: #ffffff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: #177dd6 3px solid;
+    
+}
+header #branding {
+	margin: auto;
+}
+
+header #branding h1 {
+	margin: auto;
+}
+
+
+header .highlight,
+header .current a {
+	color: #2399ff;
+	font-weight: bold;
+}
+
+
+/* Showcase */
+
+#showcase {
+	min-height: 500px;
+	text-align: left;
+	color: #0d6ec1; 
+}
+
+#showcase h1 {
+	margin-top: 150px;
+	font-size: 57px;
+	margin-bottom: 10px;
+}
+
+/* contents */
+
+#intro {
+	margin-top: 20px;
+}
+
+#intro .paragraph {
+	float: left;
+	text-align: justify;
+	width: 70%;
+	padding: 10px;
+	border-bottom: #177dd6 1px solid;
+}
+
+#intro h2 {
+    
+    text-align: center;
+    color: #177dd6;
+    font-size: 25px;
+    
+}
+
+footer {
+	padding: 20px;
+	margin-top: 20px;
+	color: #ffffff;
+	background-color: #35424a;
+	text-align: center;
+    max-height: 16px;
+}
+footer p {
+    position: relative;
+    bottom: 20px;
+}
+
+/* Media Queries */
+
+@media(max-width: 800px) {
+	
+	header {
+		padding-bottom: 20px;
+	}
+	#showcase h1 {
+		margin-top: 40px;
+	}
+
+
+}
